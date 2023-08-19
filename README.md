@@ -2,7 +2,7 @@
 - 👀 I’m interested in AWS
 - 🌱 I’m currently learning AWS architecture
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 6300459374
+- 📫 How to reach me 
 
 <!---
 KrantiRanjit/KrantiRanjit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
